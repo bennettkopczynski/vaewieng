@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chahsohqu.guo.ph/sitemap.xml
